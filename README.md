@@ -1,4 +1,5 @@
 # Hello-World
 This Repository contains the details about "Hello World" project.
 
-Change the Repository Description for Better Readability. 
+Changed the Repository Description for Better Readability. 
+2nd Change: Changed the Literal "Change" to "Changed" for better Readability. 
